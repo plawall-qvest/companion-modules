@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#curl -sSL https://github.com/plawall-qvest/companion-modules/raw/main/install.sh | bash
+
 set +e
 
 mkdir -p ~/.ssh
